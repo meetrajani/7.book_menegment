@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "title": "The Official Joomla! Book",
+      "subtitle": "",
+      "isbn13": "9780321704214",
+      "price": "$3.74",
+      "image": "https://itbook.store/img/books/9780321704214.png",
+      "url": "https://itbook.store/books/9780321704214"
+    },
+    {
+      "title": "Impact of P2P and Free Distribution on Book Sales",
+      "subtitle": "",
+      "isbn13": "9780596157876",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/9780596157876.png",
+      "url": "https://itbook.store/books/9780596157876"
+    },
+    {
+      "title": "Big Book of Windows Hacks",
+      "subtitle": "",
+      "isbn13": "9780596528355",
+      "price": "$3.25",
+      "image": "https://itbook.store/img/books/9780596528355.png",
+      "url": "https://itbook.store/books/9780596528355"
+    },
+    {
+      "title": "The Cucumber for Java Book",
+      "subtitle": "Behaviour-Driven Development for Testers and Developers",
+      "isbn13": "9781941222294",
+      "price": "$6.00",
+      "image": "https://itbook.store/img/books/9781941222294.png",
+      "url": "https://itbook.store/books/9781941222294"
+    },
+    {
+      "title": "Raspberry Pi Projects Book, Volume 5",
+      "subtitle": "",
+      "isbn13": "1001591779911",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/1001591779911.png",
+      "url": "https://itbook.store/books/1001591779911"
+    },
+    {
+      "title": "The Little Redis Book",
+      "subtitle": "",
+      "isbn13": "1001591950933",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/1001591950933.png",
+      "url": "https://itbook.store/books/1001591950933"
+    },
+    {
+      "title": "The Little Go Book",
+      "subtitle": "",
+      "isbn13": "1001592396172",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/1001592396172.png",
+      "url": "https://itbook.store/books/1001592396172"
+    },
+    {
+      "title": "Regression Models for Data Science in R",
+      "subtitle": "A companion book for the Coursera Regression Models class",
+      "isbn13": "1001592396470",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/1001592396470.png",
+      "url": "https://itbook.store/books/1001592396470"
+    },
+    {
+      "title": "The Little Book of Semaphores",
+      "subtitle": "",
+      "isbn13": "1001607603068",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/1001607603068.png",
+      "url": "https://itbook.store/books/1001607603068"
+    },
+    {
+      "title": "The little book about OS development",
+      "subtitle": "",
+      "isbn13": "1001655733778",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/1001655733778.png",
+      "url": "https://itbook.store/books/1001655733778"
+    }
+  ]
+}
