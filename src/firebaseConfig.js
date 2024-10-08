@@ -2,14 +2,14 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDgOnxmZGrmhVELyH7vGsE_hYNZoQ6Sgyc",
-  authDomain: "book-list-bebba.firebaseapp.com",
-  databaseURL: "https://book-list-bebba-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "book-list-bebba",
-  storageBucket: "book-list-bebba.appspot.com",
-  messagingSenderId: "657584683863",
-  appId: "1:657584683863:web:b066cbb020d38c559a9c12",
-  measurementId: "G-FN2DCG9P4F"
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+  authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
+  databaseURL: process.env.REACT_APP_FIREBASE_DATABASE_URL,
+  projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.REACT_APP_FIREBASE_APP_ID,
+  measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID,
 };
 
 // Initialize Firebase

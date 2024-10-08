@@ -79,6 +79,86 @@
       "price": "$0.00",
       "image": "https://itbook.store/img/books/1001655733778.png",
       "url": "https://itbook.store/books/1001655733778"
+    },
+    {
+      "title": "The JavaScript Handbook",
+      "subtitle": "",
+      "isbn13": "9781720043999",
+      "price": "$4.99",
+      "image": "https://itbook.store/img/books/9781720043999.png",
+      "url": "https://itbook.store/books/9781720043999"
+    },
+    {
+      "title": "Learning React",
+      "subtitle": "Functional Web Development with React and Redux",
+      "isbn13": "9781491954621",
+      "price": "$8.50",
+      "image": "https://itbook.store/img/books/9781491954621.png",
+      "url": "https://itbook.store/books/9781491954621"
+    },
+    {
+      "title": "JavaScript: The Good Parts",
+      "subtitle": "",
+      "isbn13": "9780596517749",
+      "price": "$5.99",
+      "image": "https://itbook.store/img/books/9780596517749.png",
+      "url": "https://itbook.store/books/9780596517749"
+    },
+    {
+      "title": "Docker in Action",
+      "subtitle": "",
+      "isbn13": "9781617294761",
+      "price": "$7.20",
+      "image": "https://itbook.store/img/books/9781617294761.png",
+      "url": "https://itbook.store/books/9781617294761"
+    },
+    {
+      "title": "Mastering Ethereum",
+      "subtitle": "Building Smart Contracts and DApps",
+      "isbn13": "9781491971949",
+      "price": "$10.00",
+      "image": "https://itbook.store/img/books/9781491971949.png",
+      "url": "https://itbook.store/books/9781491971949"
+    },
+    {
+      "title": "Learning Python",
+      "subtitle": "",
+      "isbn13": "9781449355739",
+      "price": "$12.50",
+      "image": "https://itbook.store/img/books/9781449355739.png",
+      "url": "https://itbook.store/books/9781449355739"
+    },
+    {
+      "title": "Flask Web Development",
+      "subtitle": "",
+      "isbn13": "9781491991732",
+      "price": "$9.99",
+      "image": "https://itbook.store/img/books/9781491991732.png",
+      "url": "https://itbook.store/books/9781491991732"
+    },
+    {
+      "title": "Clean Code",
+      "subtitle": "A Handbook of Agile Software Craftsmanship",
+      "isbn13": "9780132350884",
+      "price": "$15.00",
+      "image": "https://itbook.store/img/books/9780132350884.png",
+      "url": "https://itbook.store/books/9780132350884"
+    },
+    {
+      "title": "Introduction to Algorithms",
+      "subtitle": "",
+      "isbn13": "9780262033848",
+      "price": "$18.00",
+      "image": "https://itbook.store/img/books/9780262033848.png",
+      "url": "https://itbook.store/books/9780262033848"
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "subtitle": "Your Journey to Mastery",
+      "isbn13": "9780135957059",
+      "price": "$20.00",
+      "image": "https://itbook.store/img/books/9780135957059.png",
+      "url": "https://itbook.store/books/9780135957059"
     }
   ]
 }

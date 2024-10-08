@@ -180,7 +180,7 @@ const Forms = () => {
                 key={post.id}
                 style={{ width: "18rem" }}
               >
-                <Link to={post.url}>
+                <Link to={`/book/${post.id}`} >
                   <img
                     src={post.image}
                     className="card-img-top card_img"
